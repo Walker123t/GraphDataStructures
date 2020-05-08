@@ -1,22 +1,22 @@
 # Graph Data Structures
-## Graphs: Represents pair-wise relationships between a set of objects
+Represents pair-wise relationships between a set of objects
 ###  Two parts
-	* Vertex (Node)
-	* Edge (Arc)
+* Vertex (Node)
+* Edge (Arc)
  
 ### Two main categories
-	- Directed Graps: (u,v) != (v, u)
-	- Un-Directed Graph: (u,v) == (v, u)
+- Directed Graps: (u,v) != (v, u)
+- Un-Directed Graph: (u,v) == (v, u)
  
 ###  Applications
-	- Social Network
-		* Vertex - Person
-		* Edge - Relationship
-	* Route Finding
-		* Vertex - intersection
-		* Edge - Distance
-	* Precedence Constraint
-		* Certain things need to be followed in a certain order
+- Social Network
+	* Vertex - Person
+	* Edge - Relationship
+* Route Finding
+	* Vertex - intersection
+	* Edge - Distance
+* Precedence Constraint
+	* Certain things need to be followed in a certain order
  
 ##  How to represent a graph
 ###  Adjacency Matrix
